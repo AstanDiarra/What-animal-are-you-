@@ -1,0 +1,21 @@
+html, body {
+  height: 100%;
+  width: 100%;
+      font-family: 'Ubuntu', sans-serif;
+    background-color: peachpuff;
+    text-align: center;
+}
+
+
+button{
+ font-family: 'Ubuntu', sans-serif;
+  border: 5px dashed #b5977d;
+  padding: 20px;
+  margin: 10px;
+  background-color: white
+}
+
+img {
+  height: 100px;
+  width: 100px;
+}
